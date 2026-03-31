@@ -1,76 +1,58 @@
-# Hi, I'm **Siyalezo Mbuyisa** 
+# Siyalezo Mbuyisa 
 
-**Final-Year Diploma Student in ICT (Applications Development) – Cape Peninsula University of Technology** 
-**Software Developer & IT Intern** 
-**Focused on building real-world, scalable systems** 
-**I'm a backend developer with a full-stack mindset** 
+# Final-Year ICT Student | 
+# Applications Development 
 
------
+- Phone: 062 626 2455 
+- Email: 221789812@mycput.ac.za
+- Address: 143 Sir Lawry Road, Woodstock, 7925 
 
-## **About Me**
+# Professional Profile
 
-I am an aspiring **software developer** with a strong foundation in **Java, Python, and SQL**, currently completing my **Diploma in ICT at CPUT**.
-I have hands-on experience developing **backend logic and User Authentication APIs**, with a strong focus on solving real-world problems through technology.
-My goal is to enter the tech industry and help build **efficient, reliable, and impactful software solutions**.I aim to deliver software that is not only functional, but also scalable and user-focused.
+Dedicated final-year ICT student at Cape Peninsula University of Technology (CPUT) with a strong academic record, including multiple distinctions in Systems Projects and Communication Networks. I combine technical proficiency in Java, Python, and SQL with high-level communication skills gained through professional service roles. I am eager to apply a problem-solving mindset and a commitment to user satisfaction as an IT Intern.
 
------
+# Technical Skills
 
-## **Technical Skills**
+- **Languages** : Python, JavaScript (ES6+), Java, SQL, C++ 
 
-  - **Java** [
-  - **Python** 
-  - **JavaScript (ES6+)** 
-  - **C++**
 
-### **Web Development**
+- **Frameworks & Libraries** : React, Node.js 
 
-  - **Node.js**
-  - **React** 
 
-### **Database**
+- **Databases** : MySQL 
 
-  - **SQL (MySQL)** 
 
-### **Tools**
+- **Tools & Platforms**: Git, Figma, VS Code 
 
-  - **Git** 
-  - **VS Code** 
-  - **Figma**
------
+# Education
 
-## **Currently**
+# Cape Peninsula University of Technology 
 
-  - Developing a **Clinic Management System** 
-  - Refining **User Authentication APIs** 
-  - Building **data-driven backend solutions** 
+- Diploma: ICT in Applications Development | 2024 - Present 
 
------
+- Higher Certificate: Information and Communication Technology | 2023 
 
-## **Career Focus**
+# Zwelibanzi High School 
 
-  - **Software Application Development** 
-  - **Backend Development** 
-  - **Data Analysis** 
-  - **Global IT Support** 
+- National Senior Certificate | 2020 
 
------
+# Experience
+- E-Hailing Driver | Self-Employed 
+> **Customer Support** : Provided high-quality service to a diverse range of clients, ensuring clear and professional communication.
+> **Problem Solving** : Utilized real-time data and GPS platforms to optimize route efficiency and handle time-sensitive logistical challenges.
 
-## **Contact Me**
+- Deli Assistant (Part-Time) | Pick n Pay 
 
-  - **221789812@MYCPUT.AC.ZA** 
-  - **062 626 2455**
-  - **143 Sir Lawry Road, Woodstock, 7925** 
+> **Team Collaboration** : Operated within a high-pressure, fast-paced team environment to meet strict daily production deadlines.
+> **Attention to Detail** : Adhered to complex health and safety protocols and process-oriented workflows.
 
------
+# References
 
-## **Personal Drive**
+- Mr. Kwanele Manqele | 062 422 9522 
 
-I am committed to **problem-solving** and **user satisfaction**, continuously learning new technologies like **React and Node.js**, and contributing to projects that make a **real impact**.
+- Ms. Vuyo | 060 479 3326 
 
------
-## **Mocked Interview**
-[Uploading SP_Interview.zip…]()
+# Mocked Interview
 
-## **CV**
+https://github.com/user-attachments/assets/928ca41e-14e4-49a5-af7a-f7c6a9aba7fe
 
-[Siyalezo\_Mbuyisa\_IT\_Intern\_CV.pdf](https://www.google.com/search?q=https://github.com/user-attachments) 
